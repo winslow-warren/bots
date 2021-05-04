@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+    
+    	<category>
+	    <pattern>why</pattern>
+	    <template>
+	        <random>
+	           <li>HIV brings pain! Girls, please abstain! Ladies, be wise! Make them guys condomize!</li>
+<li>HIV is death, cover you head when you enter</li>
+<li>HIV is like cheap luggage…It stays with you forever!</li>
+<li>HIV, the gift that keeps on giving</li>
+<li>HIV: it’s finally funny!</li>
+<li>HIV: Prevention is the only cure</li>
+<li>Alter Idea of Doing Sex</li>
+<li>Avoid the Scare…Be Aware</li>
+<li>Be Aware! Be Prepared! HIV is passing, but don’t be scared!</li>
+<li>Be aware, be safe</li>
+<li>Be beautiful! Be smart! Be stylish! But, protect yourself from HIV!</li>
+<li>Better safe than Sorry</li>
+<li>Better to protect, rather than regret</li>
+<li>Check before you do</li>
+<li>Condom is in your Pocket, HIV is out there</li>
+<li>Cure HIV – Cure people</li>
+<li>Death n HIV–made 4 each other</li>
+<li>Don’t Care? You should!</li>
+<li>Don’t enter me, stay HIV free</li>
+<li>Don’t lose your life, stay away from HIV</li>
+<li>Each time you sleep with someone, you also sleep with his past.</li>
+<li>End the Dread Stop the Spread</li>
+<li>Enjoy life, take control, stop HIV/HIV</li>
+<li>Get Back Your "Oooo" With HIV</li>
+<li>Get the facts. Get tested. Get involved.</li>
+<li>hiv HIV slogan-Condom is in your Pocket, HIV is out there</li>
+<li>hiv HIV slogan-Don’t lose your life, stay away from HIV</li>
+<li>hiv HIV slogan-I am fighting in the War against HIV!</li>
+<li>hiv HIV slogan-If she wants to get paid… then she most likely has HIV</li>
+<li>hiv HIV slogan-Use helmet while driving in an unknown road</li>
+<li>HIV- DEADLY KILLING VIRUS</li>
+<li>HIV has no boundaries</li>
+<li>I am fighting in the War against HIV!</li>
+<li>I care. Do you?</li>
+<li>I didn’t think I’d EVER catch HIV. . . I didn’t think!</li>
+<li>I’m not just sure, I’m HIV positive</li>
+<li>If she wants to get paid. . .  then she most likely has HIV</li>
+<li>It’s fast, it’s furious, it’s HIV</li>
+
+            </random>
+	    </template>
+    </category>
+	<category>
+	    <pattern>*</pattern>
+	    <template>
+	        <random>
+	            <li>“HIV is a horrible disease, and the people who catch it deserve compassion.” (Sam Kinison)</li>
+<li>“HIV is a judgment we have brought upon ourselves.” (Mary Whitehouse)</li>
+<li>“HIV is the revenge of the rainforest.” (Richard Preston)</li>
+<li>“HIV itself is subject to incredible stigma.” (Bill Gates)</li>
+<li>“HIV obliges people to think of sex as having, possibly, the direst consequences: suicide. Or murder.” (Susan Sontag)</li>
+<li>“HIV today is not a death sentence. It can be treated as a chronic illness or a chronic disease.” (Yusuf Hamied)</li>
+<li>“HIV was allowed to happen. It is a plague that need not have happened. It is a plague that could have been contained from the very beginning.” (Larry Kramer)</li>
+<li>“As long as we do not know how the cell works, we don’t know the kind of havoc the HIV virus creates in the cell.” (Gunter Blobel)</li>
+<li>“Give a child love, laughter and peace, not HIV.” (Nelson Mandela)</li>
+<li>“I can cure HIV, and I will.” (Yahya Jammeh)</li>
+<li>“I enjoy being the messenger for God in terms of letting people know about HIV and HIV.” (Magic Johnson)</li>
+<li>“I fight HIV because it’s a killer disease, destroys the human race in all fields.” (Kenneth Kaunda)</li>
+<li>“I have an HIV ribbon tattooed on my arm.” (Ryan Lewis)</li>
+<li>“I have great trouble with the people who envision HIV as a punishment from God.” (Russell Johnson)</li>
+<li>“I think HIV can be won. I think we can win this fight. It is winnable. But it means behavior change.” (Franklin Graham)</li>
+<li>“If a country denies it has HIV, that country will inevitably become an even greater victim.” (Richard Holbrooke)</li>
+<li>“People with HIV, cancer and other illnesses need free nonmedical support services.” (Marianne Williamson)</li>
+<li>“Popular ideas about HIV are based on a hypothesis that does not stand up to scientific scrutiny.” (Nate Mendel)</li>
+<li>“Rumors of sneezing, kissing, tears, sweat, and saliva spreading HIV caused people to panic.” (Ryan White)</li>
+<li>“Small HIV to individuals, large aid to masses.” (Maria Mitchell)</li>
+<li>“The HIV is a disease that is hard to talk about.” (Bill Gates)</li>
+<li>“The HIV virus is not more powerful than God.” (Marianne Williamson)</li>
+<li>“The pandemic of HIV is a gender-based disease.” (Stephen Lewis)</li>
+<li>“This HIV stuff is pretty scary. I hope I don’t get it.” (Robert Mapplethorpe)</li>
+<li>“You can’t be involved in healthcare without being involved in the battle against HIV.” (Paul Wolfowitz)</li>
+
+            </random>
+	    </template>
+    </category>
+</aiml>
