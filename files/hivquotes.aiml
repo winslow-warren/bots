@@ -48,7 +48,7 @@
    	    </template>
     </category>
 	<category>
-	    <pattern>*</pattern>
+	    <pattern>quote</pattern>
 	    <template>
 	        <random>
 	            <li>“HIV is a horrible disease, and the people who catch it deserve compassion.” (Sam Kinison)</li>
