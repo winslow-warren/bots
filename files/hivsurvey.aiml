@@ -1,0 +1,1289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<!-- insert your AIML categories here -->
+	
+	
+	<category><pattern>survey</pattern><template>
+	
+	
+	<random>
+	    "	            <li>
+	       Being healthly is very important to me
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       My family values health
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       I see myself as happy and successful in five years
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       There are a lot of problems that stop me from being healthy
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       Health is important to my success
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       I know a lot about PrEP
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       I know the difference between PEP and PrEP
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       Most of my friends and family know what PrEP is
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       I know people that use PrEP
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       I'm interested in learning about ways to prevent HIV
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       I normally get health – related information from friends and family
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       I use the internet and books to get health information
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       I get my health information from doctors and health care workers
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       I feel comfortable reading health care materials.
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       I do NOT have a lot of access to information related to my health
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       I prefer to get information from
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       Health information is not important for young people.
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+
+	    
+	</random>
+	
+	
+	
+	
+	</template></category>
+
+	
+	
+	
+	<category><pattern>prevent</pattern><template>
+	
+	<random>
+	    "	            <li>
+	       The people at the health clinic will judge me
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       He will hurt me if he finds out I'm taking the pills
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       I dont care what happens to me in five years
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       The HIV pills will interfere with my birth control pills
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       I'm too young to have HIV
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       I know a lot about HIV
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       There is a pill that can keep you from getting AIDS
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       There is a  miracle cure for HIV from a special tree that will cure aids
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       The pills will make a man sterile!
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       At the hospital or clinic, the doctors and nurses don't explin to me.
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       If I use PrEP my birth control may not work
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       I have to have sex or else I might be hurt
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       He forces himself on me
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       I'm having sex with a lot of people
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       He won't wear a condom
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       If I got pregnant, I might not know who was responsible
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       I have been tested recently, using a rapid test.
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       I've never used a condom
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       The condom breaks a lot
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       I go to parties where there are lots of Party drugs
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       I've had an STI in the past year
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       My partner is much older than me
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       I've been with my current partner more than a year
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       I have to have sex for money
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       I feel better if he wears a condom
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       My partner would agree to get tested with me
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       I don't know whether my partner has HIV
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       I have multiple partners and have sex frequently
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       I have a sexual partner much younger than me
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       I started to have sex at an early age
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       We only have sex with each other.
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       I would have to hide my pills
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       My parents know that I am sexually active
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       I feel ok about telling my parents about PrEP.
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       Even if you see a condom in his trousers as proof that he uses condoms out there, if you try to introduce condoms in the home, he will refuse. You will be the one who is accused of infidelity.
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       The Heath care workers will lok down on me if I tell them
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       He will kill you if he discovers you are taking PrEP without disclosing to him.
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       I haven't been tested for HIV recently
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       I would rather hide the pills where I store my tea bags or inside a pillow.
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       My boyfreind will leave me if I start taking PrEP
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       If I tell my boyfriend that I am taking PrEP, he may start saying that we should have unprotected sex since PrEP will protect us.
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       If my girlfriend finds out that I am on PrEP, she would want us to have unprotected sex.
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       If you are seen with the PrEP, you will be asked to go back to your parents’ house, that marriage will be a thing of the past.
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       In our community, people on ART are given green files when they go to collect their pills. We don’t want the same system for PrEP.
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       There might be a drug interaction between hormonal treatment and PrEP 
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       It is better for PrEP to be suggested by the man in the relationship because it is romantic and more acceptable.
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       It is better for them to put PrEP in the little plastic packets, at least no one will notice you have some drugs.
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       It is better to be counselled together, that way a man can initiate PrEP which is more acceptable.
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       It is better to have a place where I can freely go to as a young woman: where there is a nurse who is trained to serve young women only. Someone with a smiling face and who is relaxed.
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       It’s easy to take PrEP because my spouse will be pleased to know I am HIV negative.
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       Leaving PrEP information at hospitals won’t really work because we hardly visit health facilities except when we are sick. You can go for years without visiting a clinic.
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       My child, should I suffer with an untreated STI because your father is a fool?
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       Now that we know about PrEP, we are going to inform our children when we get back home.
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       People in the community gossip a lot, what more will they say when they see someone taking PrEP.
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       Privacy does not work, I share a room with other people. It is bound to be exposed sooner or later and it may cause problems.
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       So, some of us go to the bars, will PrEP work after I take my beer
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       Some people are afraid of going to the hospitals due to the ill-treatment there.
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       That pill container is too big. Where do you put it?
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       The provider should not be too young such that one can potentially catch feelings with her.
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       The service providers should not be from this area, like we have with the CeSHHAR staff who come once a week. They should also be rotated every so often so that they do not become too familiar.
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       The testing issue is a problem, at times they have mobile services but, not all the time.
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       The way one doesn’t disclose to their parents that they are using condoms should apply to PrEP.
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       There is no reason why people cannot love each other anymore regardless of your HIV status.
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       This HIV testing is a problem, why do I need to get tested.
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       This is my first time to hear about this (PrEP
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       I think it should be advertised a lot using all kinds of ways like fliers, adverts on television so that a lot of people get to know about it.
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       We cannot disclose to our wives that we are taking pills.
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       We heard that one can take PrEP there and there, just before sex and you will be ok.
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       We want a central place where one does not have to walk very far to access services and the place should not be a clinic.
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       We were starting to think that this PrEP has come as a licence for people to stop using condoms.
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       We were talking about unprotected sex at the bar, and one of the guys was saying there is a new pill that has been brought in from abroad. If you take it, you can’t catch AIDS, but the only boring part is that you have to take it every day for 5 days.
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       We will use PrEP in secret just like we have been using condoms with our secondary partners without our primary partner’s knowledge.
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       When I go to the clinic to find out about PrEP, the nurse may start asking a lot of personal questions, and judging me for being in a sexual relationship.
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       Will this pill not lower my sexual drive when I want to have sex with my wife? 
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       Will this pill not make the young ones infertile and unable to have children in future after continued use?
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       With PrEP, there is no need to continue using condoms
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       With PrEP, I can date anyone, positive or negative. I will be taking my ART whilst they are taking their PrEP. I think that is fair.
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+
+	    
+	    
+	    
+	    
+	</random>
+	
+	
+	
+	</template></category>
+
+	
+	<category>
+	    <pattern>risk</pattern>
+	    <template>
+	        <random>
+"	            <li>
+	       I'm having sex with a lot of people
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       He won't wear a condom
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       If I got pregnant, I might not know who was responsible
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       I have been tested recently, using a rapid test.
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       I've never used a condom
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       The condom breaks a lot
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       I go to parties where there are lots of Party drugs
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       I've had an STI in the past year
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       My partner is much older than me
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       I've been with my current partner more than a year
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       I have to have sex for money
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       I feel better if he wears a condom
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       I'm forced to have anal sex
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       My partner would agree to get tested with me
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       I don't know whether my partner has HIV
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       I have multiple partners and have sex frequently
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       I have a sexual partner much younger than me
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       I started to have sex at an early age
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+"	            <li>
+	       We only have sex with each other.
+            <button>
+	            <text>yes</text>
+	            <postback>why</postback>
+            </button>
+              <button>
+	            <text>no</text>
+	            <postback>why</postback>
+            </button>
+	                </li>"
+            
+	        </random>
+	        
+	    </template>
+    </category>
+</aiml>

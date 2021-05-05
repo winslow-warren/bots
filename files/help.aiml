@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<!-- insert your AIML categories here -->
+	<category>
+	    <pattern>help</pattern>
+	    <template>
+	    <card>	 <title>Things i understand</title>   
+	    
+	    
+	    <button>
+	                <text>question</text>
+	                <postback>question</postback>
+                </button>
+                
+                	              <button>
+	                <text>why</text>
+	                <postback>why</postback>
+                </button>
+                
+                	              <button>
+	                <text>risk</text>
+	                <postback>risk</postback>
+                </button>
+                
+                
+                                	              <button>
+	                <text>survey</text>
+	                <postback>survey</postback>
+                </button>
+                
+                
+                                	              <button>
+	                <text>prevent</text>
+	                <postback>prevent</postback>
+                </button>
+                
+                 <button>
+	                <text>say a country like "ethiopia"</text>
+	                <postback>ethiopia</postback>
+                </button>
+      </card>
+
+
+	    </template>
+    </category>
+</aiml>

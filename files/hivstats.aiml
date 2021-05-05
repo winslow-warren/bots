@@ -30,6 +30,11 @@
       <map name="onart"><star /></map> people with HIV out of 100 get ART treatment in <star /> each year. 
   <map name="newhiv"><star /></map> people get HIV in <star /> each year. 
    <map name="kidshiv"><star /></map> children have HIV in <star />.
+   
+   <link>
+       <text>UNAIDS</text>
+       <url>https://www.unaids.org/en/regionscountries/countries/<star /></url>
+   </link>
 </template>
 </category>
 

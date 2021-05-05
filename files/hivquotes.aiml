@@ -4,7 +4,7 @@
     	<category>
 	    <pattern>why</pattern>
 	    <template>
-	        <random>
+	       "<random>
 	           <li>HIV brings pain! Girls, please abstain! Ladies, be wise! Make them guys condomize!</li>
 <li>HIV is death, cover you head when you enter</li>
 <li>HIV is like cheap luggage…It stays with you forever!</li>
@@ -44,8 +44,8 @@
 <li>If she wants to get paid. . .  then she most likely has HIV</li>
 <li>It’s fast, it’s furious, it’s HIV</li>
 
-            </random>
-	    </template>
+            </random>"
+   	    </template>
     </category>
 	<category>
 	    <pattern>*</pattern>
