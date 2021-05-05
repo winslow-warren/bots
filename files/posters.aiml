@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<!-- insert your AIML categories here -->
+	
+	<category>
+	    <pattern>guns</pattern>
+	    <template>
+	        <image>https://raw.githubusercontent.com/GileadHacks4HIV/media/main/poster1.png</image>
+	    </template>
+    </category>
+    
+    
+    	<category>
+	    <pattern>snakes</pattern>
+	    <template>
+	        <image>https://raw.githubusercontent.com/GileadHacks4HIV/media/main/poster2.png</image>
+	    </template>
+    </category>
+         	<category>
+	    <pattern>ladder</pattern>
+	    <template>
+	        <image>https://github.com/GileadHacks4HIV/media/blob/main/ladder.png?raw=true</image>
+	    </template>
+    </category>
+     	<category>
+	    <pattern>sex risk</pattern>
+	    <template>
+	        <image>https://github.com/GileadHacks4HIV/media/blob/main/sex%20habits.png?raw=true</image>
+	    </template>
+    </category>
+     	<category>
+	    <pattern>poster</pattern>
+	    <template>
+	        <random>
+	            <li> <image>https://github.com/GileadHacks4HIV/media/blob/main/poster3.jpg?raw=true</image></li>
+	            <li> <image>https://github.com/GileadHacks4HIV/media/blob/main/poster4.jpg?raw=true</image></li>
+	            <li> <image>https://github.com/GileadHacks4HIV/media/blob/main/poster5.jpg?raw=true</image></li>
+	            <li> <image>https://github.com/GileadHacks4HIV/media/blob/main/poster6.jpg?raw=true</image></li>
+	            <li> <image>https://github.com/GileadHacks4HIV/media/blob/main/poster7.jpg?raw=true</image></li>
+	            <li> <image>https://github.com/GileadHacks4HIV/media/blob/main/poster8.jpg?raw=true</image></li>
+	            <li> <image>https://github.com/GileadHacks4HIV/media/blob/main/poster9.jpg?raw=true</image></li>
+	            <li> <image>https://github.com/GileadHacks4HIV/media/blob/main/poster10.jpg?raw=true</image></li>
+	            <li> <image>https://github.com/GileadHacks4HIV/media/blob/main/poster11.jpg?raw=true</image></li>
+	            
+	        </random>
+	       
+
+	    </template>
+    </category>
+</aiml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<!-- insert your AIML categories here -->
+	<category>
+	    <pattern>hackathon</pattern>
+	    <template>
+	        <link>
+	            <text>GileadHacks4HIV</text>
+	            <url>http://www.gileadhacks4hiv.org</url>
+            </link>
+	    </template>
+    </category>
+    
+    	<category>
+	    <pattern>research</pattern>
+	    <template>
+	        <link>
+	            <text>PubMed Research : Tableau Public Demo</text>
+	            <url>https://public.tableau.com/profile/winslow8285#!/vizhome/Hackathon_16197113698530/Dashboard1</url>
+            </link>
+	    </template>
+    </category>
+    
+    
+      	<category>
+	    <pattern>people</pattern>
+	    <template>
+	        <link>
+	            <text>Geonames DB link to HIV Search : Tableau Public Demo</text>
+	            <url>https://public.tableau.com/profile/winslow8285#!/vizhome/gps-geo/Geonames</url>
+            </link>
+	    </template>
+    </category>
+    
+      
+    
+</aiml>

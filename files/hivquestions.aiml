@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<!-- insert your AIML categories here -->
+	<category>
+	    <pattern>disease</pattern>
+	    <template><random>
+	        
+	        <li>What are the symptoms?</li>
+<li>How does it affect the body?</li>
+<li>How likely is it that it will get worse?</li>
+<li>What happens over time?</li>
+
+	        
+	    </random></template>
+    </category>
+  	<category>
+	    <pattern>question</pattern>
+	    <template><random>
+	        
+<li>What are the symptoms?</li>
+<li>How does it affect the body?</li>
+<li>How likely is it that it will get worse?</li>
+<li>What happens over time?</li>
+<li>What type of organism is HIV?</li>
+<li>What is it called (scientific name and commonly used names)?</li>
+<li>Where does it live in the human body?</li>
+<li>How does it multiply?</li>
+<li>How can it be detected?</li>
+<li>How is the test done?</li>
+<li>Who can do the test?</li>
+<li>What next if the result is positive?</li>
+<li>What next if the result is negative?</li>
+<li>Where can I get tested and how much does it cost?</li>
+<li>Is the test anonymous?</li>
+<li>Are the results confidential?</li>
+<li>Can I take the test at home?</li>
+<li>How likely am I to get HIV</li>
+<li>It's impossible fo me to get HIV</li>
+<li>I'm much more likely to ___ than get HIV</li>
+<li>How can it be transmitted?</li>
+<li>How is it most commonly transmitted?</li>
+<li>What is the level of risk for different transmission routes?</li>
+<li>Is a vaccine available?</li>
+<li>How can transmission and infection be prevented? (Condoms, successful ART, PrEP and other</li>
+<li>interventions)</li>
+<li>How can the risk be managed or reduced?</li>
+<li>What treatments are available (including post-exposure prophylaxis for HIV and Hep B)?</li>
+<li>Is the treatment a cure?</li>
+<li>What does the treatment achieve?</li>
+<li>How is it administered and how long does it take to complete?</li>
+<li>How long is it effective?</li>
+<li>What are the potential side effects, and how likely are they?</li>
+<li>Where are post-exposure prophylaxis and treatment available, and what are the costs?</li>
+
+
+	        
+	    </random></template>
+    </category>
+      
+    
+</aiml>

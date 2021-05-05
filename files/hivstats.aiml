@@ -12,7 +12,7 @@
 <category>
 <pattern>on ART <set>country</set></pattern>
 <template>
-  <map name="onart"><star /></map> people out of 100 get ART treatment in <star /> each year.
+  <map name="onart"><star /></map> people with HIV out of 100 get ART treatment in <star /> each year.
 </template>
 </category>
 
@@ -23,5 +23,14 @@
 </template>
 </category>
 
+<category>
+<pattern><set>country</set></pattern>
+<template>
+   
+      <map name="onart"><star /></map> people with HIV out of 100 get ART treatment in <star /> each year. 
+  <map name="newhiv"><star /></map> people get HIV in <star /> each year. 
+   <map name="kidshiv"><star /></map> children have HIV in <star />.
+</template>
+</category>
 
 </aiml>
