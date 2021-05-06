@@ -2,7 +2,7 @@
 <aiml version="2.0">
     
     	<category>
-	    <pattern>why</pattern>
+	    <pattern>insult</pattern>
 	    <template>
 	       "<random>
 	           <li>HIV brings pain! Girls, please abstain! Ladies, be wise! Make them guys condomize!</li>
