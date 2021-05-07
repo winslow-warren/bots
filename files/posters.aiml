@@ -9,7 +9,12 @@
 	    </template>
     </category>
     
-    
+    	<category>
+	    <pattern>risk chart</pattern>
+	    <template>
+	        <image>https://github.com/GileadHacks4HIV/media/blob/main/risk-infect.png?raw=true</image>
+	    </template>
+    </category>
     	<category>
 	    <pattern>snakes</pattern>
 	    <template>
